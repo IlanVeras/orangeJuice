@@ -1,5 +1,5 @@
 import "./AvatarIcon.css"
-import avatar from "../images/ImageFull.png"
+import avatar from "../../images/ImageFull.png"
 
 function AvatarIcon() {
     return (

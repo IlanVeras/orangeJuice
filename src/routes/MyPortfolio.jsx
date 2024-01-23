@@ -1,6 +1,6 @@
-import CardPerfil from "../CardPerfil/CardPerfil";
-import NavBar from "../NavBar/NavBar"
-import SearchBar from "../SearchBar/SearchBar";
+import CardPerfil from "../components/CardPerfil/CardPerfil";
+import NavBar from "../components/NavBar/NavBar"
+import SearchBar from "../components/SearchBar/SearchBar";
 import "./MyPortfolio.css"
 
 function MyPortfolio() {

@@ -1,4 +1,4 @@
-import notification from "../images/NotificationsFilled.svg"
+import notification from "../../images/NotificationsFilled.svg"
 import "./NotificationIcon.css"
 
 function NotificationIcon() {
