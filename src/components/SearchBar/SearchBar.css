@@ -1,4 +1,22 @@
 .container-search-bar{
     width: 513px;
     height: 76px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.container-search-bar h3{
+    color: var(--Neutral-Colors-Neutral-130, #0B0C0D);
+    /* [Orange P] Style Guide/H6 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 100% */
+    letter-spacing: 0.15px;
+}
+
+.input{
+    width: 513px;
 }
