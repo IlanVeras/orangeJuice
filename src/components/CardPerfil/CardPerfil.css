@@ -57,3 +57,12 @@
     letter-spacing: 0.15px;
 }
 
+.container-btn-adicionar{
+    width: 200px;
+    height: 42px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

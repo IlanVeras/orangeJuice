@@ -10,6 +10,7 @@
     flex-direction: column;
     border-radius: var(--borderRadius, 4px);
     background: var(--Neutral-Colors-Neutral-70, #E6E9F2);
+    cursor: pointer;
 }
 
 .add-first-container p{

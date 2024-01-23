@@ -13,7 +13,7 @@ function CardPerfil() {
                     <h2>Camila Soares</h2>
                     <p>Brasil</p>
                 </div>
-                <div>
+                <div className="container-btn-adicionar">
                     <ButtonAdd />
                 </div>
             </div>
