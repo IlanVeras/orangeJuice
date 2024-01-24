@@ -1,0 +1,6 @@
+.appbar{
+    width: 360px;
+    height: 64px;
+    flex-shrink: 0;
+    background-color: blue;
+}

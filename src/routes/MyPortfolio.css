@@ -1,3 +1,11 @@
+.desktop-version{
+    display: block;
+}
+
+.mobile-version{
+    display: none;
+}
+
 .card-section{
     display: flex;
     justify-content: center;
@@ -19,4 +27,14 @@
     flex-shrink: 0;
     border-radius: var(--borderRadius, 4px);
     background: rgba(230, 233, 242, 0.20);
+}
+
+@media screen and (max-width: 360px){
+    .desktop-version{
+        display: none;
+    }
+
+    .mobile-version{
+        display: block;
+    }
 }
